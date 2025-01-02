@@ -1,0 +1,961 @@
+
+  [
+    {
+      "id": 1,
+      "category": "mobiles",
+      "title": "Apple iPhone 14",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3PuckZp",
+      "description": "Apple iPhone 14 (128 GB) - Blue",
+      "price": 89999
+    },{
+      "id": 2,
+      "category": "mobiles",
+      "title": "Apple iPhone 11",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/44MiYi6",
+      "description": "Apple iPhone 11 (64GB) - White",
+      "price": 79999
+    },
+    {
+      "id": 3,
+      "category": "mobiles",
+      "title": "Apple iPhone 13",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3r6XJtv",
+      "description": "Apple iPhone 13 (128GB) - Blue",
+      "price": 69999
+    },
+    {
+      "id": 4,
+      "category": "laptops",
+      "title": "Lenovo IdeaPad Slim 5 ",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/44JsK4r",
+      "description": "Lenovo IdeaPad Slim 5 Intel Core i5 12450H 14' (35.5cm)" ,
+      "price": 29999
+    },
+    {
+      "id": 5,
+      "category": "laptops",
+      "title": "Xiaomi [Smartchoice] Notebookpro",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3EzeQaC",
+      "description": "Xiaomi [Smartchoice] Notebookpro ",
+      "price": 49999
+    },
+    {
+      "id": 6,
+      "category": "tablets",
+      "title": "Lenovo Tab P12 Pro AMOLED",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3RabsdH",
+      "description": "Lenovo Tab P12 Pro AMOLED 8 GB, 256 GB, Wi-fi Only)",
+      "price": 19999
+    },
+    {
+      "id": 7,
+      "category": "tablets",
+      "title": "Xiaomi Pad 6",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3ZeNRdY",
+      "description": "Xiaomi Pad 6| Qualcomm Snapdragon 870| ",
+      "price": 29999
+    }
+    ,
+  
+    {
+      "id": 8,
+      "category": "laptops",
+      "title": "Apple MacBook Air Laptop",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3r9rvhm",
+      "description": "Apple MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm ",
+      "price": 89999
+    },
+   
+    {
+      "id": 9,
+      "category": "tablets",
+      "title": "Samsung Galaxy Tab A8",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3Pdsh4F",
+      "description": "Samsung Galaxy Tab A8 26.69cm Display, RAM 4 GB, ROM 64 GB ",
+      "price": 49999
+    },
+    {
+      "id": 10,
+      "category": "laptops",
+      "title": "HP 15 Core i5 13th Gen",
+      "imgSrc": "https://m.media-amazon.com/images/I/51EZx2f589L._SL1000_.jpg",
+      "amazonLink": "https://amzn.in/d/70huzPM",
+      "description": "HP 15 Core i5 13th Gen (16GB RAM/512GB SSD)”",
+      "price": 54990
+    },
+    {
+      "id": 11,
+      "category": "laptops",
+      "title": "Acer Aspire Lite 12th Gen Intel Core",
+      "imgSrc": "https://m.media-amazon.com/images/I/71czGb00k5L._SL1500_.jpg",
+      "amazonLink": "https://amzn.in/d/7yhVoAi",
+      "description": "Acer Aspire Lite 12th Gen (Windows 11 Home/16GB RAM/512GB SSD",
+      "price": 43990
+    },
+    {
+      "id": 12,
+      "category": "laptops",
+      "title": "Dell 15,Intel Core i5-1235U",
+      "imgSrc": "https://m.media-amazon.com/images/I/61-Y-eWXqtL._SL1080_.jpg",
+      "amazonLink": "https://amzn.in/d/1t70VRp",
+      "description": "Dell 15,Intel Core i5-1235U Processor/16GB DDR4+512GB SSD",
+      "price": 49990
+    },
+    {
+      "id": 13,
+      "category": "laptops",
+      "title": "Dell Inspiron 3530",
+      "imgSrc": "https://m.media-amazon.com/images/I/41wdSMfF60L._SX300_SY300_QL70_FMwebp_.jpg",
+      "amazonLink": "https://amzn.in/d/321Fdwj",
+      "description": "Dell Inspiron 3530, 13th Gen Intel Core ",
+      "price": 49990
+    },
+    {
+      "id": 14,
+      "category": "tablets",
+      "title": "Acer Iconia Tablet iM9-12M",
+      "imgSrc": "https://m.media-amazon.com/images/I/71pBZp7qWML._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/dnDmfZZ",
+      "description": "Acer Iconia Tablet iM9-12M with 22.09 cm (8.7') WXGA IPS Display, 400 Nits",
+      "price": 11990
+    },
+    {
+      "id": 15,
+      "category": "tablets",
+      "title": "Acer Iconia Tab iM10-22",
+      "imgSrc": "https://m.media-amazon.com/images/I/71l3RlMZQ7L._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/hQL630f",
+      "description": "Acer Iconia Tab iM10-22 , 8GB RAM + 256GB Storage",
+      "price": 16990
+    },
+    {
+      "id": 16,
+      "category": "tablets",
+      "title": "Lenovo Tab M10 HD Tablet ",
+      "imgSrc": "https://m.media-amazon.com/images/I/51x+rjlKmwL._SL1080_.jpg",
+      "amazonLink": "https://amzn.in/d/gveIO7N",
+      "description": "Lenovo Tab M10 HD Tablet (10.1 inches Wi-Fi + 4G LTE)",
+      "price": 5812
+    },
+    {
+      "id": 17,
+      "category": "tablets",
+      "title": "HONOR Pad X8a with Free",
+      "imgSrc": "https://m.media-amazon.com/images/I/6104lCOYMJL._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/81pNPu4",
+      "description": "HONOR Pad X8a with Free Flip-Cover 27.94cm (11 inch) ",
+      "price": 6680
+    }
+,
+    {
+      "id": 18,
+      "category": "mobiles",
+      "title": "Apple iPhone 14",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3PuckZp",
+      "description": "Apple iPhone 14 (128 GB) - Blue",
+      "price": 89999
+    },
+    {
+      "id": 19,
+      "category": "laptops",
+      "title": "Xiaomi [Smartchoice] Notebookpro",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3EzeQaC",
+      "description": "Xiaomi [Smartchoice] Notebookpro ",
+      "price": 49999
+    },
+    {
+      "id": 20,
+      "category": "tablets",
+      "title": "Xiaomi Pad 6",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3ZeNRdY",
+      "description": "Xiaomi Pad 6| Qualcomm Snapdragon 870| ",
+      "price": 29999
+    },
+    {
+      "id": 21,
+      "category": "mobiles",
+      "title": "Apple iPhone 11",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/44MiYi6",
+      "description": "Apple iPhone 11 (64GB) - White",
+      "price": 79999
+    },
+    {
+      "id":22,
+      "category": "tablets",
+      "title": "Lenovo Tab P12 Pro AMOLED",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3RabsdH",
+      "description": "Lenovo Tab P12 Pro AMOLED 8 GB, 256 GB, Wi-fi Only)",
+      "price": 19999
+    },
+    {
+      "id": 23,
+      "category": "mobiles",
+      "title": "Apple iPhone 13",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3r6XJtv",
+      "description": "Apple iPhone 13 (128GB) - Blue",
+      "price": 69999
+    },
+    {
+      "id": 24,
+      "category": "laptops",
+      "title": "Lenovo IdeaPad Slim 5 ",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/44JsK4r",
+      "description": "Lenovo IdeaPad Slim 5 Intel Core i5 12450H 14' (35.5cm)" ,
+      "price": 29999
+    },
+    {
+      "id": 25,
+      "category": "tablets",
+      "title": "Samsung Galaxy Tab A8",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3Pdsh4F",
+      "description": "Samsung Galaxy Tab A8 26.69cm Display, RAM 4 GB, ROM 64 GB ",
+      "price": 49999
+    },
+    {
+      "id": 26,
+      "category": "laptops",
+      "title": "Apple MacBook Air Laptop",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3r9rvhm",
+      "description": "Apple MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm ",
+      "price": 89999
+    },
+    {
+      "id": 27,
+      "category": "laptops",
+      "title": "HP Laptop 255 G9",
+      "imgSrc": "https://m.media-amazon.com/images/I/61kqA9KJksL._AC_UF480,480_SR480,480_.jpg",
+      "amazonLink": "https://amzn.in/d/7q3noRv",
+      "description": "HP Laptop 255 G9 (2024), AMD Athlon Silver 3050U (8GB/256GB SSD)",
+      "price": 23550
+    },
+    {
+      "id": 28,
+      "category": "laptops",
+      "title": "HP 15 Core i5 13th Gen",
+      "imgSrc": "https://m.media-amazon.com/images/I/51EZx2f589L._SL1000_.jpg",
+      "amazonLink": "https://amzn.in/d/70huzPM",
+      "description": "HP 15 Core i5 13th Gen (16GB RAM/512GB SSD)”",
+      "price": 54990
+    },
+    {
+      "id": 29,
+      "category": "laptops",
+      "title": "Acer Aspire Lite 12th Gen Intel Core",
+      "imgSrc": "https://m.media-amazon.com/images/I/71czGb00k5L._SL1500_.jpg",
+      "amazonLink": "https://amzn.in/d/7yhVoAi",
+      "description": "Acer Aspire Lite 12th Gen (Windows 11 Home/16GB RAM/512GB SSD",
+      "price": 43990
+    },
+    {
+      "id": 30,
+      "category": "laptops",
+      "title": "Dell 15,Intel Core i5-1235U",
+      "imgSrc": "https://m.media-amazon.com/images/I/61-Y-eWXqtL._SL1080_.jpg",
+      "amazonLink": "https://amzn.in/d/1t70VRp",
+      "description": "Dell 15,Intel Core i5-1235U Processor/16GB DDR4+512GB SSD",
+      "price": 49990
+    },
+    {
+      "id": 31,
+      "category": "laptops",
+      "title": "Dell Inspiron 3530",
+      "imgSrc": "https://m.media-amazon.com/images/I/41wdSMfF60L._SX300_SY300_QL70_FMwebp_.jpg",
+      "amazonLink": "https://amzn.in/d/321Fdwj",
+      "description": "Dell Inspiron 3530, 13th Gen Intel Core ",
+      "price": 49990
+    },
+    {
+      "id": 32,
+      "category": "tablets",
+      "title": "Acer Iconia Tablet iM9-12M",
+      "imgSrc": "https://m.media-amazon.com/images/I/71pBZp7qWML._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/dnDmfZZ",
+      "description": "Acer Iconia Tablet iM9-12M with 22.09 cm (8.7') WXGA IPS Display, 400 Nits",
+      "price": 11990
+    },
+    {
+      "id": 33,
+      "category": "tablets",
+      "title": "Acer Iconia Tab iM10-22",
+      "imgSrc": "https://m.media-amazon.com/images/I/71l3RlMZQ7L._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/hQL630f",
+      "description": "Acer Iconia Tab iM10-22 , 8GB RAM + 256GB Storage",
+      "price": 16990
+    },
+    {
+      "id": 34,
+      "category": "tablets",
+      "title": "Lenovo Tab M10 HD Tablet ",
+      "imgSrc": "https://m.media-amazon.com/images/I/51x+rjlKmwL._SL1080_.jpg",
+      "amazonLink": "https://amzn.in/d/gveIO7N",
+      "description": "Lenovo Tab M10 HD Tablet (10.1 inches Wi-Fi + 4G LTE)",
+      "price": 5812
+    },
+    {
+      "id": 35,
+      "category": "tablets",
+      "title": "HONOR Pad X8a with Free",
+      "imgSrc": "https://m.media-amazon.com/images/I/6104lCOYMJL._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/81pNPu4",
+      "description": "HONOR Pad X8a with Free Flip-Cover 27.94cm (11 inch) ",
+      "price": 6680
+    },{
+      "id": 36,
+      "category": "mobiles",
+      "title": "Apple iPhone 14",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3PuckZp",
+      "description": "Apple iPhone 14 (128 GB) - Blue",
+      "price": 89999
+    },{
+      "id": 37,
+      "category": "mobiles",
+      "title": "Apple iPhone 11",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/44MiYi6",
+      "description": "Apple iPhone 11 (64GB) - White",
+      "price": 79999
+    },
+    {
+      "id": 38,
+      "category": "mobiles",
+      "title": "Apple iPhone 13",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3r6XJtv",
+      "description": "Apple iPhone 13 (128GB) - Blue",
+      "price": 69999
+    },
+    {
+      "id": 39,
+      "category": "laptops",
+      "title": "Lenovo IdeaPad Slim 5 ",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/44JsK4r",
+      "description": "Lenovo IdeaPad Slim 5 Intel Core i5 12450H 14' (35.5cm)" ,
+      "price": 29999
+    },
+    {
+      "id": 40,
+      "category": "laptops",
+      "title": "Xiaomi [Smartchoice] Notebookpro",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3EzeQaC",
+      "description": "Xiaomi [Smartchoice] Notebookpro ",
+      "price": 49999
+    },
+    {
+      "id": 41,
+      "category": "tablets",
+      "title": "Lenovo Tab P12 Pro AMOLED",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3RabsdH",
+      "description": "Lenovo Tab P12 Pro AMOLED 8 GB, 256 GB, Wi-fi Only)",
+      "price": 19999
+    },
+    {
+      "id": 42,
+      "category": "tablets",
+      "title": "Xiaomi Pad 6",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3ZeNRdY",
+      "description": "Xiaomi Pad 6| Qualcomm Snapdragon 870| ",
+      "price": 29999
+    }
+    ,
+  
+    {
+      "id": 43,
+      "category": "laptops",
+      "title": "Apple MacBook Air Laptop",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3r9rvhm",
+      "description": "Apple MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm ",
+      "price": 89999
+    },
+   
+    {
+      "id": 44,
+      "category": "tablets",
+      "title": "Samsung Galaxy Tab A8",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3Pdsh4F",
+      "description": "Samsung Galaxy Tab A8 26.69cm Display, RAM 4 GB, ROM 64 GB ",
+      "price": 49999
+    },
+    {
+      "id": 45,
+      "category": "laptops",
+      "title": "HP 15 Core i5 13th Gen",
+      "imgSrc": "https://m.media-amazon.com/images/I/51EZx2f589L._SL1000_.jpg",
+      "amazonLink": "https://amzn.in/d/70huzPM",
+      "description": "HP 15 Core i5 13th Gen (16GB RAM/512GB SSD)”",
+      "price": 54990
+    },
+    {
+      "id": 46,
+      "category": "laptops",
+      "title": "Acer Aspire Lite 12th Gen Intel Core",
+      "imgSrc": "https://m.media-amazon.com/images/I/71czGb00k5L._SL1500_.jpg",
+      "amazonLink": "https://amzn.in/d/7yhVoAi",
+      "description": "Acer Aspire Lite 12th Gen (Windows 11 Home/16GB RAM/512GB SSD",
+      "price": 43990
+    },
+    {
+      "id": 47,
+      "category": "laptops",
+      "title": "Dell 15,Intel Core i5-1235U",
+      "imgSrc": "https://m.media-amazon.com/images/I/61-Y-eWXqtL._SL1080_.jpg",
+      "amazonLink": "https://amzn.in/d/1t70VRp",
+      "description": "Dell 15,Intel Core i5-1235U Processor/16GB DDR4+512GB SSD",
+      "price": 49990
+    },
+    {
+      "id": 48,
+      "category": "laptops",
+      "title": "Dell Inspiron 3530",
+      "imgSrc": "https://m.media-amazon.com/images/I/41wdSMfF60L._SX300_SY300_QL70_FMwebp_.jpg",
+      "amazonLink": "https://amzn.in/d/321Fdwj",
+      "description": "Dell Inspiron 3530, 13th Gen Intel Core ",
+      "price": 49990
+    },
+    {
+      "id": 49,
+      "category": "tablets",
+      "title": "Acer Iconia Tablet iM9-12M",
+      "imgSrc": "https://m.media-amazon.com/images/I/71pBZp7qWML._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/dnDmfZZ",
+      "description": "Acer Iconia Tablet iM9-12M with 22.09 cm (8.7') WXGA IPS Display, 400 Nits",
+      "price": 11990
+    },
+    {
+      "id": 50,
+      "category": "tablets",
+      "title": "Acer Iconia Tab iM10-22",
+      "imgSrc": "https://m.media-amazon.com/images/I/71l3RlMZQ7L._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/hQL630f",
+      "description": "Acer Iconia Tab iM10-22 , 8GB RAM + 256GB Storage",
+      "price": 16990
+    },
+    {
+      "id": 51,
+      "category": "tablets",
+      "title": "Lenovo Tab M10 HD Tablet ",
+      "imgSrc": "https://m.media-amazon.com/images/I/51x+rjlKmwL._SL1080_.jpg",
+      "amazonLink": "https://amzn.in/d/gveIO7N",
+      "description": "Lenovo Tab M10 HD Tablet (10.1 inches Wi-Fi + 4G LTE)",
+      "price": 5812
+    },
+    {
+      "id": 52,
+      "category": "tablets",
+      "title": "HONOR Pad X8a with Free",
+      "imgSrc": "https://m.media-amazon.com/images/I/6104lCOYMJL._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/81pNPu4",
+      "description": "HONOR Pad X8a with Free Flip-Cover 27.94cm (11 inch) ",
+      "price": 6680
+    }
+,
+    {
+      "id": 53,
+      "category": "mobiles",
+      "title": "Apple iPhone 14",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3PuckZp",
+      "description": "Apple iPhone 14 (128 GB) - Blue",
+      "price": 89999
+    },
+    {
+      "id": 54,
+      "category": "laptops",
+      "title": "Xiaomi [Smartchoice] Notebookpro",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3EzeQaC",
+      "description": "Xiaomi [Smartchoice] Notebookpro ",
+      "price": 49999
+    },
+    {
+      "id": 55,
+      "category": "tablets",
+      "title": "Xiaomi Pad 6",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3ZeNRdY",
+      "description": "Xiaomi Pad 6| Qualcomm Snapdragon 870| ",
+      "price": 29999
+    },
+    {
+      "id": 56,
+      "category": "mobiles",
+      "title": "Apple iPhone 11",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/44MiYi6",
+      "description": "Apple iPhone 11 (64GB) - White",
+      "price": 79999
+    },
+    {
+      "id":57,
+      "category": "tablets",
+      "title": "Lenovo Tab P12 Pro AMOLED",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3RabsdH",
+      "description": "Lenovo Tab P12 Pro AMOLED 8 GB, 256 GB, Wi-fi Only)",
+      "price": 19999
+    },
+    {
+      "id": 58,
+      "category": "mobiles",
+      "title": "Apple iPhone 13",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3r6XJtv",
+      "description": "Apple iPhone 13 (128GB) - Blue",
+      "price": 69999
+    },
+    {
+      "id": 59,
+      "category": "laptops",
+      "title": "Lenovo IdeaPad Slim 5 ",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/44JsK4r",
+      "description": "Lenovo IdeaPad Slim 5 Intel Core i5 12450H 14' (35.5cm)" ,
+      "price": 29999
+    },
+    {
+      "id": 60,
+      "category": "tablets",
+      "title": "Samsung Galaxy Tab A8",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3Pdsh4F",
+      "description": "Samsung Galaxy Tab A8 26.69cm Display, RAM 4 GB, ROM 64 GB ",
+      "price": 49999
+    },
+    {
+      "id": 61,
+      "category": "laptops",
+      "title": "Apple MacBook Air Laptop",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3r9rvhm",
+      "description": "Apple MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm ",
+      "price": 89999
+    },
+    {
+      "id": 62,
+      "category": "laptops",
+      "title": "HP Laptop 255 G9",
+      "imgSrc": "https://m.media-amazon.com/images/I/61kqA9KJksL._AC_UF480,480_SR480,480_.jpg",
+      "amazonLink": "https://amzn.in/d/7q3noRv",
+      "description": "HP Laptop 255 G9 (2024), AMD Athlon Silver 3050U (8GB/256GB SSD)",
+      "price": 23550
+    },
+    {
+      "id": 63,
+      "category": "laptops",
+      "title": "HP 15 Core i5 13th Gen",
+      "imgSrc": "https://m.media-amazon.com/images/I/51EZx2f589L._SL1000_.jpg",
+      "amazonLink": "https://amzn.in/d/70huzPM",
+      "description": "HP 15 Core i5 13th Gen (16GB RAM/512GB SSD)”",
+      "price": 54990
+    },
+    {
+      "id": 64,
+      "category": "laptops",
+      "title": "Acer Aspire Lite 12th Gen Intel Core",
+      "imgSrc": "https://m.media-amazon.com/images/I/71czGb00k5L._SL1500_.jpg",
+      "amazonLink": "https://amzn.in/d/7yhVoAi",
+      "description": "Acer Aspire Lite 12th Gen (Windows 11 Home/16GB RAM/512GB SSD",
+      "price": 43990
+    },
+    {
+      "id": 65,
+      "category": "laptops",
+      "title": "Dell 15,Intel Core i5-1235U",
+      "imgSrc": "https://m.media-amazon.com/images/I/61-Y-eWXqtL._SL1080_.jpg",
+      "amazonLink": "https://amzn.in/d/1t70VRp",
+      "description": "Dell 15,Intel Core i5-1235U Processor/16GB DDR4+512GB SSD",
+      "price": 49990
+    },
+    {
+      "id": 66,
+      "category": "laptops",
+      "title": "Dell Inspiron 3530",
+      "imgSrc": "https://m.media-amazon.com/images/I/41wdSMfF60L._SX300_SY300_QL70_FMwebp_.jpg",
+      "amazonLink": "https://amzn.in/d/321Fdwj",
+      "description": "Dell Inspiron 3530, 13th Gen Intel Core ",
+      "price": 49990
+    },
+    {
+      "id": 67,
+      "category": "tablets",
+      "title": "Acer Iconia Tablet iM9-12M",
+      "imgSrc": "https://m.media-amazon.com/images/I/71pBZp7qWML._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/dnDmfZZ",
+      "description": "Acer Iconia Tablet iM9-12M with 22.09 cm (8.7') WXGA IPS Display, 400 Nits",
+      "price": 11990
+    },
+    {
+      "id": 68,
+      "category": "tablets",
+      "title": "Acer Iconia Tab iM10-22",
+      "imgSrc": "https://m.media-amazon.com/images/I/71l3RlMZQ7L._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/hQL630f",
+      "description": "Acer Iconia Tab iM10-22 , 8GB RAM + 256GB Storage",
+      "price": 16990
+    },
+    {
+      "id": 69,
+      "category": "tablets",
+      "title": "Lenovo Tab M10 HD Tablet ",
+      "imgSrc": "https://m.media-amazon.com/images/I/51x+rjlKmwL._SL1080_.jpg",
+      "amazonLink": "https://amzn.in/d/gveIO7N",
+      "description": "Lenovo Tab M10 HD Tablet (10.1 inches Wi-Fi + 4G LTE)",
+      "price": 5812
+    },
+    {
+      "id": 70,
+      "category": "tablets",
+      "title": "HONOR Pad X8a with Free",
+      "imgSrc": "https://m.media-amazon.com/images/I/6104lCOYMJL._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/81pNPu4",
+      "description": "HONOR Pad X8a with Free Flip-Cover 27.94cm (11 inch) ",
+      "price": 6680
+    },{
+      "id": 71,
+      "category": "mobiles",
+      "title": "Apple iPhone 14",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3PuckZp",
+      "description": "Apple iPhone 14 (128 GB) - Blue",
+      "price": 89999
+    },{
+      "id": 72,
+      "category": "mobiles",
+      "title": "Apple iPhone 11",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/44MiYi6",
+      "description": "Apple iPhone 11 (64GB) - White",
+      "price": 79999
+    },
+    {
+      "id": 73,
+      "category": "mobiles",
+      "title": "Apple iPhone 13",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3r6XJtv",
+      "description": "Apple iPhone 13 (128GB) - Blue",
+      "price": 69999
+    },
+    {
+      "id": 74,
+      "category": "laptops",
+      "title": "Lenovo IdeaPad Slim 5 ",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/44JsK4r",
+      "description": "Lenovo IdeaPad Slim 5 Intel Core i5 12450H 14' (35.5cm)" ,
+      "price": 29999
+    },
+    {
+      "id": 75,
+      "category": "laptops",
+      "title": "Xiaomi [Smartchoice] Notebookpro",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3EzeQaC",
+      "description": "Xiaomi [Smartchoice] Notebookpro ",
+      "price": 49999
+    },
+    {
+      "id": 76,
+      "category": "tablets",
+      "title": "Lenovo Tab P12 Pro AMOLED",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3RabsdH",
+      "description": "Lenovo Tab P12 Pro AMOLED 8 GB, 256 GB, Wi-fi Only)",
+      "price": 19999
+    },
+    {
+      "id": 77,
+      "category": "tablets",
+      "title": "Xiaomi Pad 6",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3ZeNRdY",
+      "description": "Xiaomi Pad 6| Qualcomm Snapdragon 870| ",
+      "price": 29999
+    }
+    ,
+  
+    {
+      "id": 78,
+      "category": "laptops",
+      "title": "Apple MacBook Air Laptop",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3r9rvhm",
+      "description": "Apple MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm ",
+      "price": 89999
+    },
+   
+    {
+      "id": 79,
+      "category": "tablets",
+      "title": "Samsung Galaxy Tab A8",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3Pdsh4F",
+      "description": "Samsung Galaxy Tab A8 26.69cm Display, RAM 4 GB, ROM 64 GB ",
+      "price": 49999
+    },
+    {
+      "id": 80,
+      "category": "laptops",
+      "title": "HP 15 Core i5 13th Gen",
+      "imgSrc": "https://m.media-amazon.com/images/I/51EZx2f589L._SL1000_.jpg",
+      "amazonLink": "https://amzn.in/d/70huzPM",
+      "description": "HP 15 Core i5 13th Gen (16GB RAM/512GB SSD)”",
+      "price": 54990
+    },
+    {
+      "id": 81,
+      "category": "laptops",
+      "title": "Acer Aspire Lite 12th Gen Intel Core",
+      "imgSrc": "https://m.media-amazon.com/images/I/71czGb00k5L._SL1500_.jpg",
+      "amazonLink": "https://amzn.in/d/7yhVoAi",
+      "description": "Acer Aspire Lite 12th Gen (Windows 11 Home/16GB RAM/512GB SSD",
+      "price": 43990
+    },
+    {
+      "id": 82,
+      "category": "laptops",
+      "title": "Dell 15,Intel Core i5-1235U",
+      "imgSrc": "https://m.media-amazon.com/images/I/61-Y-eWXqtL._SL1080_.jpg",
+      "amazonLink": "https://amzn.in/d/1t70VRp",
+      "description": "Dell 15,Intel Core i5-1235U Processor/16GB DDR4+512GB SSD",
+      "price": 49990
+    },
+    {
+      "id": 83,
+      "category": "laptops",
+      "title": "Dell Inspiron 3530",
+      "imgSrc": "https://m.media-amazon.com/images/I/41wdSMfF60L._SX300_SY300_QL70_FMwebp_.jpg",
+      "amazonLink": "https://amzn.in/d/321Fdwj",
+      "description": "Dell Inspiron 3530, 13th Gen Intel Core ",
+      "price": 49990
+    },
+    {
+      "id": 84,
+      "category": "tablets",
+      "title": "Acer Iconia Tablet iM9-12M",
+      "imgSrc": "https://m.media-amazon.com/images/I/71pBZp7qWML._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/dnDmfZZ",
+      "description": "Acer Iconia Tablet iM9-12M with 22.09 cm (8.7') WXGA IPS Display, 400 Nits",
+      "price": 11990
+    },
+    {
+      "id": 85,
+      "category": "tablets",
+      "title": "Acer Iconia Tab iM10-22",
+      "imgSrc": "https://m.media-amazon.com/images/I/71l3RlMZQ7L._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/hQL630f",
+      "description": "Acer Iconia Tab iM10-22 , 8GB RAM + 256GB Storage",
+      "price": 16990
+    },
+    {
+      "id": 86,
+      "category": "tablets",
+      "title": "Lenovo Tab M10 HD Tablet ",
+      "imgSrc": "https://m.media-amazon.com/images/I/51x+rjlKmwL._SL1080_.jpg",
+      "amazonLink": "https://amzn.in/d/gveIO7N",
+      "description": "Lenovo Tab M10 HD Tablet (10.1 inches Wi-Fi + 4G LTE)",
+      "price": 5812
+    },
+    {
+      "id": 87,
+      "category": "tablets",
+      "title": "HONOR Pad X8a with Free",
+      "imgSrc": "https://m.media-amazon.com/images/I/6104lCOYMJL._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/81pNPu4",
+      "description": "HONOR Pad X8a with Free Flip-Cover 27.94cm (11 inch) ",
+      "price": 6680
+    }
+,
+    {
+      "id": 88,
+      "category": "mobiles",
+      "title": "Apple iPhone 14",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3PuckZp",
+      "description": "Apple iPhone 14 (128 GB) - Blue",
+      "price": 89999
+    },
+    {
+      "id": 89,
+      "category": "laptops",
+      "title": "Xiaomi [Smartchoice] Notebookpro",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3EzeQaC",
+      "description": "Xiaomi [Smartchoice] Notebookpro ",
+      "price": 49999
+    },
+    {
+      "id": 90,
+      "category": "tablets",
+      "title": "Xiaomi Pad 6",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3ZeNRdY",
+      "description": "Xiaomi Pad 6| Qualcomm Snapdragon 870| ",
+      "price": 29999
+    },
+    {
+      "id": 91,
+      "category": "mobiles",
+      "title": "Apple iPhone 11",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/44MiYi6",
+      "description": "Apple iPhone 11 (64GB) - White",
+      "price": 79999
+    },
+    {
+      "id":92,
+      "category": "tablets",
+      "title": "Lenovo Tab P12 Pro AMOLED",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3RabsdH",
+      "description": "Lenovo Tab P12 Pro AMOLED 8 GB, 256 GB, Wi-fi Only)",
+      "price": 19999
+    },
+    {
+      "id": 93,
+      "category": "mobiles",
+      "title": "Apple iPhone 13",
+      "imgSrc": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3r6XJtv",
+      "description": "Apple iPhone 13 (128GB) - Blue",
+      "price": 69999
+    },
+    {
+      "id": 94,
+      "category": "laptops",
+      "title": "Lenovo IdeaPad Slim 5 ",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/44JsK4r",
+      "description": "Lenovo IdeaPad Slim 5 Intel Core i5 12450H 14' (35.5cm)" ,
+      "price": 29999
+    },
+    {
+      "id": 95,
+      "category": "tablets",
+      "title": "Samsung Galaxy Tab A8",
+      "imgSrc": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+      "amazonLink": "https://amzn.to/3Pdsh4F",
+      "description": "Samsung Galaxy Tab A8 26.69cm Display, RAM 4 GB, ROM 64 GB ",
+      "price": 49999
+    },
+    {
+      "id": 96,
+      "category": "laptops",
+      "title": "Apple MacBook Air Laptop",
+      "imgSrc": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "amazonLink": "https://amzn.to/3r9rvhm",
+      "description": "Apple MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm ",
+      "price": 89999
+    },
+    {
+      "id": 97,
+      "category": "laptops",
+      "title": "HP Laptop 255 G9",
+      "imgSrc": "https://m.media-amazon.com/images/I/61kqA9KJksL._AC_UF480,480_SR480,480_.jpg",
+      "amazonLink": "https://amzn.in/d/7q3noRv",
+      "description": "HP Laptop 255 G9 (2024), AMD Athlon Silver 3050U (8GB/256GB SSD)",
+      "price": 23550
+    },
+    {
+      "id": 98,
+      "category": "laptops",
+      "title": "HP 15 Core i5 13th Gen",
+      "imgSrc": "https://m.media-amazon.com/images/I/51EZx2f589L._SL1000_.jpg",
+      "amazonLink": "https://amzn.in/d/70huzPM",
+      "description": "HP 15 Core i5 13th Gen (16GB RAM/512GB SSD)”",
+      "price": 54990
+    },
+    {
+      "id": 99,
+      "category": "laptops",
+      "title": "Acer Aspire Lite 12th Gen Intel Core",
+      "imgSrc": "https://m.media-amazon.com/images/I/71czGb00k5L._SL1500_.jpg",
+      "amazonLink": "https://amzn.in/d/7yhVoAi",
+      "description": "Acer Aspire Lite 12th Gen (Windows 11 Home/16GB RAM/512GB SSD",
+      "price": 43990
+    },
+    {
+      "id": 100,
+      "category": "laptops",
+      "title": "Dell 15,Intel Core i5-1235U",
+      "imgSrc": "https://m.media-amazon.com/images/I/61-Y-eWXqtL._SL1080_.jpg",
+      "amazonLink": "https://amzn.in/d/1t70VRp",
+      "description": "Dell 15,Intel Core i5-1235U Processor/16GB DDR4+512GB SSD",
+      "price": 49990
+    },
+    {
+      "id": 101,
+      "category": "laptops",
+      "title": "Dell Inspiron 3530",
+      "imgSrc": "https://m.media-amazon.com/images/I/41wdSMfF60L._SX300_SY300_QL70_FMwebp_.jpg",
+      "amazonLink": "https://amzn.in/d/321Fdwj",
+      "description": "Dell Inspiron 3530, 13th Gen Intel Core ",
+      "price": 49990
+    },
+    {
+      "id": 102,
+      "category": "tablets",
+      "title": "Acer Iconia Tablet iM9-12M",
+      "imgSrc": "https://m.media-amazon.com/images/I/71pBZp7qWML._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/dnDmfZZ",
+      "description": "Acer Iconia Tablet iM9-12M with 22.09 cm (8.7') WXGA IPS Display, 400 Nits",
+      "price": 11990
+    },
+    {
+      "id": 103,
+      "category": "tablets",
+      "title": "Acer Iconia Tab iM10-22",
+      "imgSrc": "https://m.media-amazon.com/images/I/71l3RlMZQ7L._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/hQL630f",
+      "description": "Acer Iconia Tab iM10-22 , 8GB RAM + 256GB Storage",
+      "price": 16990
+    },
+    {
+      "id": 104,
+      "category": "tablets",
+      "title": "Lenovo Tab M10 HD Tablet ",
+      "imgSrc": "https://m.media-amazon.com/images/I/51x+rjlKmwL._SL1080_.jpg",
+      "amazonLink": "https://amzn.in/d/gveIO7N",
+      "description": "Lenovo Tab M10 HD Tablet (10.1 inches Wi-Fi + 4G LTE)",
+      "price": 5812
+    },
+    {
+      "id": 105,
+      "category": "tablets",
+      "title": "HONOR Pad X8a with Free",
+      "imgSrc": "https://m.media-amazon.com/images/I/6104lCOYMJL._SX522_.jpg",
+      "amazonLink": "https://amzn.in/d/81pNPu4",
+      "description": "HONOR Pad X8a with Free Flip-Cover 27.94cm (11 inch) ",
+      "price": 6680
+    }
+    
+    
+
+
+  ]
+
+

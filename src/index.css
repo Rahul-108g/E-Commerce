@@ -1,0 +1,46 @@
+body{
+  background-color: white;
+}
+
+/* navbar */
+
+.con1{
+  background-color: rgb(0, 0, 153);
+  padding: 8px;
+}
+.con2{
+  background-color: rgb(0, 0, 153);
+  padding: 8px;
+}
+.txt1{
+  font-size: 22px;
+  font-weight: bolder;
+}
+.cart{
+  font-size: 25px;
+
+}
+
+/* navbar 2 */
+
+.nac{
+  border: aliceblue;
+}
+.tox{
+ 
+  background-color: rgba(13, 202, 240, 0.34);
+}
+.mox:hover{
+  cursor: pointer;
+  border-bottom: 3px solid black;
+  
+}
+
+/* content */
+.don1{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  gap: 40px;
+}
