@@ -13,7 +13,7 @@ output:-
 look:-
 ![Screenshot 2025-01-03 023225](https://github.com/user-attachments/assets/3cefa31c-2661-4d9c-8b66-108530cda303)
 
-there i add serching fature
+there I add serching feature
 ============================
 ![Screenshot 2025-01-03 023445](https://github.com/user-attachments/assets/86bca473-b2d5-43ac-859a-c2c3101edc3e)
 
